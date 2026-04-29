@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF :- 1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-
+title="Animation",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF :- 1 tvg-id="AsahiShimbunDigital.jp"
+tvg-logo="https://i.imgur.com/DuGepQp.jpg" group-title="News",Asahi Shimbun Digital
+https://ythls.armelin.one/channel/UCMKvTOYVLufHMdGLH89J1oA.m3u8
+#EXTINF :- 1 tvg-id="ATX.jp" tvg-logo="https://i.imgur.com/turWday.png" group-
+title="Animation", AT-X
+https://neetball.net/live/neet3.m3u8
+#EXTINF :- 1 tvg-id="BSAsahi.jp" tvg-logo="https://i.imgur.com/huXFL3A.png" group-
+title="General", BS Asahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+#EXTINF :- 1 tvg-id="BSFuji.jp" tvg-logo="https://i.imgur.com/aDdwjjc.png" group-
+title="General", BS Fuji
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF :- 1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-
+title="General", BS Nippon TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+#EXTINF :- 1 tvg-id="BSNYouTube.jp" tvg-logo="https://i.imgur.com/RWLrQEm.png" group-
+title="", BSN YouTube
+https://ythls.armelin.one/channel/UCoAQNKxgfE32ai4mOXNXvug.m3u8
+#EXTINF :- 1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/h20eGKq.png" group-
+title="General", BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+#EXTINF :- 1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-
+title="General", BS TV Tokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+#EXTINF :- 1 tvg-id="CartoonNetwork.jp"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/
+Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-
+title="Animation;Kids", Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF :- 1 tvg-id="CGNTVJapan.jp" tvg-logo="https://i.imgur.com/5LNZeVq.png" group-
+title="Religious", CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/cgntv_jp/playlist.m3u8
+#EXTINF :- 1 tvg-id="ChannelGinga.jp" tvg-logo="https://i.imgur.com/zfvyspc.png"
+group-title="General", Channel Ginga
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+#EXTINF :- 1 tvg-id="ChukyoTVNews.jp" tvg-logo="https://i.imgur.com/fSNc0jP.png"
+group-title="News", Chukyo TV News
+https://ythls.armelin.one/channel/UCxiRdfyHOFtFCRZTRfRsdsA.m3u8
+#EXTINF :- 1 tvg-id="CNNj.jp" tvg-logo="https://i.imgur.com/Ft6wEd0.png" group-
+title="News", CNNj
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+#EXTINF :- 1 tvg-id="DisneyChannel.jp" tvg-logo="https://i.imgur.com/VSq7b5E.jpg"
+group-title="Kids", Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+#EXTINF :- 1 tvg-10="DisneyJunior. jp"
+tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/
+512px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF :- 1 tvg-id="EiseiGekijo.jp" tvg-logo="https://i.imgur.com/0ALvy3B.png"
+group-title="Movies", Eisei Gekijo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+#EXTINF :- 1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://i.imgur.com/Azdf7m6.png"
+group-title="Family", Family Gekijyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+only=false)
+#EXTINF :- 1 tvg-id="HBCHokkaidoNews24.jp" tvg-logo="https://i.imgur.com/vcGsZVD.png"
+group-title="News", HBC Hokkaido News 24
+https://ythls.armelin.one/channel/UCCTpf5c_9HDo_0Su3aX8uFQ.m3u8
+#EXTINF :- 1 tvg-id="HokkaidoNewsUHB.jp" tvg-logo="https://i.imgur.com/G8LAJYc.png"
+group-title="News", Hokkaido News UHB
+https://ythls.armelin.one/channel/UCpQs_warGhUzJhBdwLfF34g.m3u8
+#EXTINF :- 1 tvg-id="HomeDramaChannel.jp" tvg-logo="https://i.imgur.com/iNkKh7w.png"
+group-title="Series", Home Drama Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+#EXTINF :- 1 tvg-id="HOMEHiroshimaNews.jp" tvg-logo="https://i.imgur.com/RT0vW2v.jpg"
+group-title="News", HOME Hiroshima News
+https://ythls.armelin.one/channel/UCRnFGOp_mjaCYEhMzsE2iHA.m3u8
+#EXTINF :- 1 tvg-id="HTBHokkaidoNews24.jp" tvg-logo="https://i.imgur.com/yqUItvM.png"
+group-title="News", HTB Hokkaido News 24
+https://ythls.armelin.one/channel/UCSWOnDD1KIriGmyQ7SgNA4A.m3u8
+#EXTINF :- 1 tvg-id="IBC6BoxYouTube.jp" tvg-logo="https://i.imgur.com/wg9wzkc.png"
+group-title="", IBC 6 Box YouTube
+https://ythls.armelin.one/channel/UCMbq0m2vILQTbc@Vh0cVWaQ.m3u8
+#EXTINF :- 1 tvg-id="IwateMenkoiTelevision.jp"
+tvg-logo="https://i.imgur.com/bIc4DwU.png" group-title="News", Iwate Menkoi
+Television
+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+group-title="Outdoor", Fishing Vision
+#EXTINF :- 1 tvg-id="FishingVision.jp" tvg-logo="https://i.imgur.com/qX6nNOF.png"
+
+title="Entertainment", Fuji TV NEXT
+#EXTINF :- 1 tvg-id="FujiTVNEXT.jp" tvg-logo="https://i.imgur.com/j95aeSA.png" group-
+
+#EXTINF :- 1 tvg-id="GAORASPORTS.jp" tvg-logo="https://i.imgur.com/UgKRfuw.png"
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+group-title="Sports", GAORA SPORTS
+
+http://202.60.106.14:8080/1335/playlist.m3u8
+group-title="Sports", Golf Network
+#EXTINF :- 1 tvg-id="GolfNetwork.jp" tvg-logo="https://i.imgur.com/01Jsa2Z.png"
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+#EXTINF :- 1 tvg-id="GreenChannel.jp" tvg-logo="https://i.imgur.com/sD3z8j7.png"
+group-title="", Green ChanneL
+
+title="Shop", GSTV
+#EXTINF :- 1 tvg-id="GSTV.jp" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+
+e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf, audio-
+https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-
+#EXTINF :- 1 tvg-id="JapaNews24.jp"
+https://ythls.armelin.one/channel/UCw14eNQAUDqCg-fX3Uvd07w.m3u8
+tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgq0MUS0adc02h6Py293xPnF0r8QrwOQRLKuVkVFz0Q=s176-c-k-c0x00ffffff-no-rj" group-title="News", JapaNews24
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhi0.m3u8
+
+
+NEED CORRECTION
